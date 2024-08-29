@@ -1,7 +1,3 @@
-/**
- * VIDEO NO. 290 PRIMEROS PASOS CON EL PROYECTO 
- */
-
 //Selectores 
 const formulario = document.querySelector("#formulario");
 const resultado = document.querySelector("#resultado");
